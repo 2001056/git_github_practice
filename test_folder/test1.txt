@@ -7,9 +7,4 @@ hello world7
 hello world9
 hello world9
 hello world9
-hello world9
-hello world9
-hello world9
-hello world10
-hello world10
 
